@@ -3,7 +3,7 @@ This repository contains all the codes used for the master thesis of Collin Henr
 
 ## Content
 There are differents contents in the CSRNet folder :
-* Models folder : It contains the differents models trained and the JSON version for the models used in the interface available here : [livecounting](https://github.com/Juski07)
+* Models folder : It contains the differents models trained and the JSON version for the models used in the interface available here : [livecounting](https://github.com/Juski07/livecounting)
 * Notebooks folder: It contains the different notebooks used for training models and make analysis on them.
 * All the python files needed for the CSRNet architecture
 
